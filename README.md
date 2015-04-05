@@ -1,5 +1,5 @@
 # Bid To Combat
-Multiplayer hack n' slash
+Multiplayer hack 'n slash
 
 # Quickstart
 
