@@ -11,4 +11,8 @@ Multiplayer hack 'n slash
 5. `grunt`
 
 ### *nix
-TODO...
+1. install nodejs: https://nodejs.org/
+2. `sudo npm update -g npm`
+3. `sudo npm install -g grunt-cli`
+4. navigate to BidToCombat folder
+5. `grunt`
