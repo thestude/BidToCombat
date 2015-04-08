@@ -1,8 +1,8 @@
 {
-  "name": "AnotherGame",
+  "name": "BidToCombat",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.html",
   "dependencies": {
     "grunt": "^0.4.5"
   },
